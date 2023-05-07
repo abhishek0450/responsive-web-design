@@ -1,1 +1,3 @@
-# Frontend_projects
+#Responsive-Web-Design 
+
+this repository contains some html css projects, that I made while my learning process (Learnbydoing)....
